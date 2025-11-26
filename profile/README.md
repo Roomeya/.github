@@ -261,32 +261,6 @@ Lambda 함수에서 사용하는 주요 환경 변수:
 - `BUCKET_NAME`: S3 버킷 이름
 - `REGION`: AWS 리전
 
-## 🤝 기여 가이드
-
-### 브랜치 전략
-- `main`: 프로덕션 브랜치
-- `develop`: 개발 브랜치
-- `feature/*`: 기능 개발 브랜치
-- `hotfix/*`: 긴급 수정 브랜치
-
-### 커밋 메시지 규칙
-```
-feat: 새로운 기능 추가
-fix: 버그 수정
-docs: 문서 수정
-style: 코드 포맷팅
-refactor: 코드 리팩토링
-test: 테스트 추가
-chore: 빌드/설정 변경
-```
-
-### Pull Request 프로세스
-1. Feature 브랜치 생성
-2. 코드 작성 및 테스트
-3. PR 생성 (develop 브랜치로)
-4. 코드 리뷰
-5. Merge
-
 ## 👥 팀원
 
 <!-- 팀원 정보는 여기에 추가 -->
@@ -295,11 +269,3 @@ chore: 빌드/설정 변경
 
 MIT License
 
-## 📞 문의
-
-- Organization: [Roomeya](https://github.com/Roomeya)
-- Issues: 각 레포지토리의 Issues 탭 활용
-
----
-
-**Built with ❤️ by Roomeya Team**
