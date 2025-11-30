@@ -7,7 +7,7 @@ Roomeya는 학생들의 정보를 수집하고 매칭하는 서버리스 기반�
 Roomeya는 AWS 서버리스 아키텍처를 기반으로 구축된 학생 매칭 플랫폼입니다. 사용자는 폼을 생성하고, 학생들은 폼을 제출하며, 시스템은 자동으로 매칭을 처리하고 결과를 이메일로 발송합니다.
 
 ## 🙆‍♂️ 팀원 소개
-| **고동현** | **Jieun13** | **박지현** | **박성준** |
+| **고동현** | **백지은** | **박지현** | **박성준** |
 | :---: | :---: | :---: | :---: |
 | [<img src="https://github.com/Gosorasora.png" width=150 height=150><br/>@Gosorasora](https://github.com/Gosorasora)<br/>**Infra** | [<img src="https://github.com/Jieun13.png" width=150 height=150><br/>@Jieun13](https://github.com/Jieun13)<br/>**BE** | [<img src="https://github.com/wlgusqkr.png" width=150 height=150><br/>@wlgusqkr](https://github.com/wlgusqkr)<br/>**FE, QA** | [<img src="https://github.com/SJ-PARKs.png" width=150 height=150><br/>@SJ-PARKs](https://github.com/SJ-PARKs)<br/>**BE, QA** |
 
