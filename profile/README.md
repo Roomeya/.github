@@ -53,6 +53,9 @@ Lambda 함수의 소스 코드를 관리하는 레포지토리
 ### 3. [Roomeya-Lambda-Deployments](https://github.com/Roomeya/Roomeya-Lambda-Deployments)
 Lambda 함수의 배포용 zip 파일을 관리하는 레포지토리
 
+### 4. [FE](https://github.com/Roomeya/FE.git)
+Roomeya 프론트엔드 레포지토리 
+
 ## 🔄 개발 워크플로우
 
 ### 1. Lambda 함수 개발
