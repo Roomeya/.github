@@ -1,5 +1,3 @@
-<img width="876" height="608" alt="image" src="https://github.com/user-attachments/assets/44bbad7c-071d-4bd7-b73e-4daab7b9d52a" /># Roomeya
-
 > 학생 매칭 및 폼 관리 시스템
 
 Roomeya는 학생들의 정보를 수집하고 매칭하는 서버리스 기반의 폼 관리 시스템입니다.
@@ -7,6 +5,11 @@ Roomeya는 학생들의 정보를 수집하고 매칭하는 서버리스 기반�
 ## 🎯 프로젝트 개요
 
 Roomeya는 AWS 서버리스 아키텍처를 기반으로 구축된 학생 매칭 플랫폼입니다. 사용자는 폼을 생성하고, 학생들은 폼을 제출하며, 시스템은 자동으로 매칭을 처리하고 결과를 이메일로 발송합니다.
+
+## 🙆‍♂️ 팀원 소개
+| **고동현** | **Jieun13** | **박지현** | **박성준** |
+| :---: | :---: | :---: | :---: |
+| [<img src="https://github.com/Gosorasora.png" width=150 height=150><br/>@Gosorasora](https://github.com/Gosorasora)<br/>**Infra** | [<img src="https://github.com/Jieun13.png" width=150 height=150><br/>@Jieun13](https://github.com/Jieun13)<br/>**BE** | [<img src="https://github.com/wlgusqkr.png" width=150 height=150><br/>@wlgusqkr](https://github.com/wlgusqkr)<br/>**FE, QA** | [<img src="https://github.com/SJ-PARKs.png" width=150 height=150><br/>@SJ-PARKs](https://github.com/SJ-PARKs)<br/>**BE, QA** |
 
 ### 주요 기능
 
@@ -203,10 +206,6 @@ Lambda 함수에서 사용하는 주요 환경 변수:
 - `TABLE_NAME`: DynamoDB 테이블 이름
 - `BUCKET_NAME`: S3 버킷 이름
 - `REGION`: AWS 리전
-
-## 👥 팀원
-
-<!-- 팀원 정보는 여기에 추가 -->
 
 ## 📄 라이센스
 
