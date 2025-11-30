@@ -9,7 +9,7 @@ Roomeya는 AWS 서버리스 아키텍처를 기반으로 구축된 학생 매칭
 ## 🙆‍♂️ 팀원 소개
 | **고동현** | **백지은** | **박지현** | **박성준** |
 | :---: | :---: | :---: | :---: |
-| [<img src="https://github.com/Gosorasora.png" width=150 height=150><br/>@Gosorasora](https://github.com/Gosorasora)<br/>**Infra** | [<img src="https://github.com/Jieun13.png" width=150 height=150><br/>@Jieun13](https://github.com/Jieun13)<br/>**BE** | [<img src="https://github.com/wlgusqkr.png" width=150 height=150><br/>@wlgusqkr](https://github.com/wlgusqkr)<br/>**FE, QA** | [<img src="https://github.com/SJ-PARKs.png" width=150 height=150><br/>@SJ-PARKs](https://github.com/SJ-PARKs)<br/>**BE, QA** |
+| [<img src="https://github.com/Gosorasora.png" width=150 height=150><br/>@Gosorasora](https://github.com/Gosorasora)<br/>**Infra, Deploy** | [<img src="https://github.com/Jieun13.png" width=150 height=150><br/>@Jieun13](https://github.com/Jieun13)<br/>**Leader, BE** | [<img src="https://github.com/wlgusqkr.png" width=150 height=150><br/>@wlgusqkr](https://github.com/wlgusqkr)<br/>**FE, QA** | [<img src="https://github.com/SJ-PARKs.png" width=150 height=150><br/>@SJ-PARKs](https://github.com/SJ-PARKs)<br/>**BE, QA** |
 
 ### 주요 기능
 
